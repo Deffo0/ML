@@ -1,6 +1,8 @@
-# machine_learning_algorithms like:
+# Supervised ML Algorithms
+## Description
+External usage of some ML Algorithms like:
 + naive bayes
 + svm 
 + decision tree 
-# which are used to:
-create supervised classifier to predict results of some questions based on previous known answers.
+## Libraries
++ sklearn
